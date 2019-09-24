@@ -1,0 +1,2 @@
+datum-classname: com.dataflow.lefty.HashShort
+processor-classname: com.dataflow.lefty.ShortHashProcessor
